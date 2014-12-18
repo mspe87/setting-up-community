@@ -3,7 +3,7 @@ Vi har lavet en vejledning til at få vores system op og køre lokalt på en ubu
 Denne guide tager udgangspunkt i en helt nyinstalleret ubuntu 14.04
 
 Opdater systemet
-Sørg for at systemet er opdateret inden nedenstående kommandoer køres ved at køre:
+Sørg for at systemet er opdateret inden nedenstående kommandoer køres ved at køre: 
 sudo apt-get upgrade
 sudo apt-get update
 
