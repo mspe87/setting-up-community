@@ -1,4 +1,7 @@
 Vejledning til opsætning af systemet
+
+Denne fil læses bedst her: https://github.com/mspe87/setting-up-community/raw/master/README.md eller i word dokumentet
+
 Vi har lavet en vejledning til at få vores system op og køre lokalt på en ubuntu 14.04 maskine. I produktionsmiljøet kører de fleste af systemerne på hver deres maskine, men her sætter vi det op, så det kører på den samme. Alle værktøjerne vi bruger kører også på Windows og OS X, men vi har valgt at lave en vejledning til ubuntu, da vores servere også kører ubuntu.
 Denne guide tager udgangspunkt i en helt nyinstalleret ubuntu 14.04
 
